@@ -1,0 +1,1 @@
+cargo run -- --default-node e2580f1954add10596e803aa215058674508e737d3d920d4d82bf6e175118f5e --addr 0.0.0.0:4444
